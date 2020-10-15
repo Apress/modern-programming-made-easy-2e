@@ -1,4 +1,4 @@
-# Errata for *Book Title*
+# Errata for *Modern Programming Made Easy, 2nd Edition*
 
 On **page xx** [Summary of error]:
  
